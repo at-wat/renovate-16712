@@ -4,7 +4,8 @@ go 1.18
 
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.0.0
-	github.com/google/go-github/v44 v44.0.0
+	github.com/google/go-github/v44 v44.1.0
+	github.com/google/go-github/v45 v45.2.0
 )
 
 require (
