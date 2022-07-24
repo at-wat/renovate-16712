@@ -3,7 +3,7 @@ module github.com/at-wat/renovate-16712
 go 1.18
 
 require (
-	github.com/aws/aws-sdk-go-v2/config v1.1.0
+	github.com/aws/aws-sdk-go-v2/config v1.15.14
 	github.com/google/go-github/v44 v44.0.0
 	gitlab.com/at-wat-group/subgroup/renovate-test/submodule v1.0.0
 	gitlab.com/at-wat-group/subgroup/renovate-test/submodule/v2 v2.0.0
